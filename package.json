@@ -1,7 +1,7 @@
 {
-  "name": "TrackDown",
+  "name": "Information-Gathering",
   "version": "1.0.0",
-  "description": "Track Down People just through a link",
+  "description": "Information-Gathering just through a link",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,8 @@
    },
   "keywords": [],
   "author": {
-   "name" : "Prateek Chaubey",
-   "url" : "https://git.io/prateek"
+   "name" : "TheBwof",
+   "url" : "https://github.com/TheBwof"
   },
   "license": "MIT",
   "dependencies": {
