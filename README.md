@@ -1,7 +1,7 @@
 
 <p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
 
-<h2 align='center'>Track Down people by just using a link.</h2>
+<h2 align='center'>Information-Gathering by just using a link.</h2>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 </div>
 
 This tool is based upon [Psi](https://github.com/TheBwof/Psi) .This is a telegram implementation with extra features than Psi.
-### Try it at [@Information-Gathering bot](https://t.me/TrackDownRoBot)
+### Try it at [@Information-Gathering bot](https://t.me/bwofifbot)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/TheBwof/Information-Gathering)](https://repl.it/github/TheBwof/Information-Gathering)
