@@ -15,8 +15,8 @@ app.set("view engine", "ejs");
 
 //Modify your URL here
 var hostURL="YOUR URL";
-//TOGGLE for Shorters
-var use1pt=false;
+//TOGGLE for 1pt Proxy and Shorters
+var use1pt=true;
 
 
 
